@@ -1,0 +1,243 @@
+{
+    "basics": {
+        "name": "Antonin Catrix",
+        "label": "Developer",
+        "picture": "",
+        "email": "antonin.catrix@gmail.com",
+        "phone": "+33 6 84 65 32 85",
+        "website": "https://antonin-catrix.fr",
+        "summary": "A summary of Antonin Catrix...",
+        "location": {
+            "address": "3201 chemin du grand perne",
+            "postalCode": "59560",
+            "city": "Comines",
+            "countryCode": "FR",
+            "region": "Nord"
+        },
+        "profiles": [
+            {
+                "network": "Twitter",
+                "username": "john",
+                "url": "http://twitter.com/john"
+            }
+        ]
+    },
+    "work": [
+        {
+            "name": "Analyst developer Java",
+            "position": "Developer",
+            "website": "https://www.nexity.fr/",
+            "startDate": "2020-09-01",
+            "summary": "I develop a solution to monitor AWS SNS & SQS services",
+            "location": "Lille, France",
+            "highlights": ["Started the company"]
+        },
+        {
+            "name": "Co-founder at Dediz",
+            "position": "Co-founder",
+            "website": "https://dediz.co",
+            "startDate": "2020-08-15",
+            "endDate": "2021-10-01",
+            "summary": "I started and directed the company and I developed the web application and mobile application",
+            "location": "Lille, France",
+            "highlights": ["Started the company"]
+        },
+        {
+            "name": "React & Firebase developer",
+            "position": "Developer",
+            "website": "https://welovedevs.com",
+            "startDate": "2019-09-01",
+            "endDate": "2020-08-31",
+            "summary": "I developed and fixed bugs on the web application",
+            "location": "Lille, France",
+            "highlights": ["Started the company"]
+        },
+        {
+            "name": "Angular & Delphi developer",
+            "position": "Developer",
+            "website": "http://www.cic-it-lille.com/",
+            "startDate": "2019-01-01",
+            "endDate": "2019-03-01",
+            "summary": "I created a web application to help doctors to monitor patient health",
+            "location": "Lille, France",
+            "highlights": ["Started the company"]
+        },
+        {
+            "name": "Angular developer",
+            "position": "Developer",
+            "website": "https://mm-it-consulting.com/",
+            "startDate": "2019-04-01",
+            "endDate": "2019-07-01",
+            "summary": "I created a web application to introduce an IT company",
+            "location": "Lille, France",
+            "highlights": ["Started the company"]
+        }
+    ],
+    "volunteer": [
+        {
+            "organization": "Organization",
+            "position": "Volunteer",
+            "website": "http://organization.com/",
+            "endDate": "2013-01-01",
+            "summary": "Description...",
+            "highlights": ["Awarded 'Volunteer of the Month'"]
+        }
+    ],
+    "education": [
+        {
+            "institution": "EPSI Lille",
+            "area": "Software Engineering",
+            "studyType": "Engineer Degree",
+            "startDate": "2017-09-01",
+            "endDate": "2022-06-01",
+            "gpa": "4.0",
+            "courses": ["DB1101 - Basic SQL"]
+        },
+        {
+            "institution": "EPSI Lille",
+            "area": "Software Development",
+            "studyType": "BTS SIO",
+            "startDate": "2017-09-01",
+            "endDate": "2019-07-04",
+            "gpa": "4.0",
+            "courses": ["DB1101 - Basic SQL"]
+        },
+        {
+            "institution": "St Jude Armentières",
+            "area": "School",
+            "studyType": "Economic and social",
+            "startDate": "2014-09-01",
+            "endDate": "2017-07-04",
+            "gpa": "4.0",
+            "courses": ["DB1101 - Basic SQL"]
+        }
+    ],
+    "awards": [
+        {
+            "title": "Award",
+            "date": "2014-11-01",
+            "awarder": "Company",
+            "summary": "There is no spoon."
+        }
+    ],
+    "publications": [
+        {
+            "name": "Publication",
+            "publisher": "Company",
+            "releaseDate": "2014-10-01",
+            "website": "http://publication.com",
+            "summary": "Description..."
+        }
+    ],
+    "skills": [
+        {
+            "name": "React",
+            "level": "Medium",
+            "value": 50,
+            "keywords": ["HTML", "CSS", "Javascript"]
+        },
+        {
+            "name": "Java",
+            "level": "Low",
+            "value": 40,
+            "keywords": ["JAVA", "Spring"]
+        },
+        {
+            "name": "NodeJS",
+            "level": "Medium",
+            "value": 60,
+            "keywords": ["Javascript", "Sequelize"]
+        },
+        {
+            "name": "Firebase",
+            "level": "Medium",
+            "value": 70,
+            "keywords": ["Database", "NoSQL"]
+        },
+        {
+            "name": "AWS services",
+            "level": "Master",
+            "value": 30,
+            "keywords": ["SNS", "Lambda", "API Gateway"]
+        }
+    ],
+    "languages": [{ "language": "English", "value": 50, "fluency": "B1 level" }, { "language": "French", "value": 100, "fluency": "Native speaker" } ],
+    "interests": [
+        {
+            "name": "Football",
+            "gifUrl": "https://media1.giphy.com/media/3oD3YooLLYg0AfOPdK/giphy-downsized.gif?cid=f7fb5bbaegu1ofs48lty41dyowqsfo0wq9qq8h4czot7rwm1&rid=giphy-downsized.gif",
+            "id": "afa5739f-f868-464e-a1aa-18f5a3ff4e2b",
+            "gifUser": {
+                "name": "Nike Football",
+                "profileUrl": "https://giphy.com/nikefootball/",
+                "isVerified": true,
+                "profileAvatarUrl": "https://media1.giphy.com/avatars/nikefootball/vPyZcrShcXY8.jpg"
+            }
+        },
+        {
+            "name": "Burritos",
+            "gifUrl": "https://media.giphy.com/media/d8WjGORtSEWqc/giphy.gif"
+        },
+        {
+            "name": "I like to play football and video games."
+        }
+    ],
+    "references": [{ "name": "Antonin Catrix", "reference": "Reference..." }],
+    "projects": [
+        {
+            "index": 0,
+            "date": { "month": 11, "year": 2019 },
+            "description": "I created a web application with vanilla HTML and javascript for the web agency Gemelli",
+            "id": "7f1f4257-e5db-477d-aa5f-ababe0ab0b12",
+            "link": "https://gemelli-mk.com/",
+            "name": "Gemelli"
+        }
+    ],
+    "specific": {
+        "basics": {
+            "visaSponsorship": true,
+            "personalDescription": "I have to think about this."
+        },
+        "dreamJob": {
+            "locations": [
+                { "name": "US, San Francisco" },
+                { "name": "Canada, Torronto" },
+                { "name": "Paris, France" }
+            ],
+            "remoteFrequency": "regularly"
+        },
+        "education": { "studiesLevel": "BAC +5" },
+        "work": {
+            "contractTypes": ["Apprenticeship"],
+            "codingYears": 5,
+            "codingReason": "I wanted to create things",
+            "searchState": "activelySearching",
+            "experienceYears": 3,
+            "codeExperienceYears": 3,
+            "otherExperienceYears": null
+        },
+        "interestedBy": "React, blockchain et dogs."
+    },
+    "resumeCustomization": {
+        "imageHeader": {
+            "url": "https://cdn.filestackcontent.com/8I2wVnCRTFxypXRYLRsp",
+            "alt": "Default Banner"
+        },
+        "cardsOrder": [
+            { "type": "basics", "variant": 6 },
+            { "type": "projects", "variant": 6 },
+            { "type": "skills", "variant": 6 },
+            { "type": "dreamjob", "variant": 6 },
+            { "type": "experiences", "variant": 6 },
+            { "type": "studies", "variant": 6 },
+            { "type": "gifs", "variant": 6 },
+            { "type": "interestedBy", "variant": 6 },
+            { "type": "language", "variant": 6 }
+        ],
+        "fields": {
+            "work": {
+                "customDateFormat": "YYYY"
+            }
+        }
+    }
+}
