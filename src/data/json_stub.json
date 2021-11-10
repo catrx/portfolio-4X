@@ -4,11 +4,11 @@
         "label": "Developer",
         "picture": "",
         "email": "antonin.catrix@gmail.com",
-        "phone": "+33 6 84 65 32 85",
+        "phone": "",
         "website": "https://antonin-catrix.fr",
         "summary": "A summary of Antonin Catrix...",
         "location": {
-            "address": "3201 chemin du grand perne",
+            "address": "",
             "postalCode": "59560",
             "city": "Comines",
             "countryCode": "FR",
@@ -216,7 +216,7 @@
             "codeExperienceYears": 3,
             "otherExperienceYears": null
         },
-        "interestedBy": "React, blockchain et dogs."
+        "interestedBy": "AWS Services, Mobile development and dogs."
     },
     "resumeCustomization": {
         "imageHeader": {
