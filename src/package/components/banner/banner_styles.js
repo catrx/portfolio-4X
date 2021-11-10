@@ -54,8 +54,7 @@ export const styles = (theme) => {
         },
         overlay: {
             extend: 'absolutePositioned',
-            zIndex: 1,
-            backgroundImage: `linear-gradient(360deg, rgba(${darkenPrimaryRgb}, .9) -28.58%, rgba(${primaryRgb}, 0.7) 93.05%)`
+            zIndex: 1
         },
         content: {
             width: '100%',

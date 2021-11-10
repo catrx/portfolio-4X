@@ -21,6 +21,7 @@ import { useReceivedGlobalClasses } from '../hooks/use_received_global_classes';
 import { styles } from './banner_styles';
 import { useMode } from '../hooks/use_mode';
 import { EditButton } from './user_actions_row/edit_button/edit_button';
+import BannerBackground from '../../assets/banner.jpg';
 
 const useStyles = createUseStyles(styles);
 
@@ -44,7 +45,7 @@ const BannerComponent = ({ customizationOptions, onCustomizationChanged }) => {
                 {imageInformations && (
                     <motion.img
                         className={classes.image}
-                        src={imageInformations?.url}
+                        src={BannerBackground}
                         alt={imageInformations?.alt}
                         variants={OPACITY_TRANSITIONS}
                         transition={{ duration: 1 }}
